@@ -1,13 +1,13 @@
 ---
 title: Operational Considerations for Voucher infrastructure for BRSKI MASA
 abbrev: MASA Considerations
-docname: draft-ietf-anima-masa-considerations-00
+docname: draft-ietf-anima-masa-considerations-01
 
 ipr: trust200902
 area: Internet
 wg: anima Working Group
 kw: Internet-Draft
-cat: std
+cat: info
 
 pi:
   toc: yes
