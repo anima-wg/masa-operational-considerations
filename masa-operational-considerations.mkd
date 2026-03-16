@@ -1,7 +1,7 @@
 ---
 title: Operational Considerations for Voucher infrastructure for BRSKI MASA
 abbrev: MASA Considerations
-docname: draft-ietf-anima-masa-considerations-01
+docname: draft-ietf-anima-masa-considerations-02
 
 ipr: trust200902
 area: Internet
@@ -19,10 +19,10 @@ author:
   org: Sandelman Software Works
   email: mcr+ietf@sandelman.ca
 
-- ins: W. Pan
-  name: Wei Pan
-  org: Huawei Technologies
-  email: william.panwei@huawei.com
+- ins: T. Werner
+  name: Thomas Werner
+  org: Siemens AG
+  email: thomas-werner@siemens.com
 
 normative:
   RFC8366:
@@ -38,7 +38,7 @@ normative:
     date: "December 2019"
 
   ieee802-1AR:
-    target: "http://standards.ieee.org/findstds/standard/802.1AR-2009.html"
+    target: "https://standards.ieee.org/ieee/802.1AR/6995/"
     title: "IEEE 802.1AR Secure Device Identifier"
     author:
       ins: "IEEE Standard"
