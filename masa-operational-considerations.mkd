@@ -24,6 +24,10 @@ author:
   org: Siemens AG
   email: thomas-werner@siemens.com
 
+- fullname: Chunchi Peter Liu
+  organization: Huawei
+  email: liuchunchi@huawei.com
+
 normative:
   RFC8366:
   I-D.ietf-anima-constrained-voucher: constrainedvoucher
