@@ -53,8 +53,7 @@ informative:
 
   holman2012:
     title: "A Business Continuity Solution Selection Methodology"
-    target:
-"https://www.scribd.com/document/790372727/Session-10387-Business-Continuity-Soloution-Selection-Methodology-03-7-2012-1"
+    target: "https://www.scribd.com/document/790372727/Session-10387-Business-Continuity-Soloution-Selection-Methodology-03-7-2012-1"
     author:
       org: "IBM Corp"
       name: "Ellis Holman"
