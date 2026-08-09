@@ -24,16 +24,11 @@ author:
   org: Siemens AG
   email: thomas-werner@siemens.com
 
-- fullname: Chunchi Peter Liu
-  organization: Huawei
-  email: liuchunchi@huawei.com
-
 normative:
   RFC8366:
   I-D.ietf-anima-constrained-voucher: constrainedvoucher
   RFC8995: BRSKI
-  I-D.richardson-anima-registrar-considerations:
-  I-D.moskowitz-ecdsa-pki:
+  I-D.ietf-anima-registrar-considerations:
   threetier:
     target: "https://en.wikipedia.org/wiki/Multitier_architecture"
     title: "Multitier architecture"
@@ -49,49 +44,6 @@ normative:
     date: 2009
 
 informative:
-  RFC7030:
-  BedOfNails:
-    title: "In-circuit test"
-    author:
-      org: "Wikipedia"
-    target: "https://en.wikipedia.org/wiki/In-circuit_test#Bed_of_nails_tester"
-    date: 2019
-
-  RambusCryptoManager:
-    title: "Qualcomm Licenses Rambus CryptoManager Key and Feature Management Security Solution"
-    target: "https://www.rambus.com/qualcomm-licenses-rambus-cryptomanager-key-and-feature-management-security-solution/"
-    author:
-      org: "Qualcomm press release"
-    date: 2014
-
-  kskceremony:
-    title: "DNSSEC Practice Statement for the Root Zone ZSK Operator"
-    target: "https://www.iana.org/dnssec/dps/zsk-operator/dps-zsk-operator-v2.0.pdf"
-    author:
-      org: "Verisign"
-    date: 2017
-
-  rootkeyceremony:
-     title: "Root Key Ceremony, Cryptography Wiki"
-     target: "https://cryptography.fandom.com/wiki/Root_Key_Ceremony"
-     author:
-       org: "Community"
-     date: "2020-04-04"
-
-  keyceremony2:
-     title: "SAS 70 Key Ceremony"
-     target: "http://www.digi-sign.com/compliance/key%20ceremony/index"
-     author:
-       org: "Digi-Sign"
-     date: "2020-04-04"
-
-  nistsp800-57:
-    title: "SP 800-57 Part 1 Rev. 4 Recommendation for Key Management, Part 1: General"
-    target: "https://csrc.nist.gov/publications/detail/sp/800-57-part-1/rev-4/final"
-    author:
-      org: "NIST"
-    date: 2016-01-01
-
   iso22301_2019:
     title: "ISO 22301: Societal security — Business continuity management systems — Requirements"
     target: "https://www.iso.org/standard/75106.html"
@@ -101,7 +53,8 @@ informative:
 
   holman2012:
     title: "A Business Continuity Solution Selection Methodology"
-    target: "https://share.confex.com/share/118/webprogram/Handout/Session10387/Session%2010387%20Business%20Continuity%20Soloution%20Selection%20Methodology%2003-7-2012.pdf"
+    target:
+"https://www.scribd.com/document/790372727/Session-10387-Business-Continuity-Soloution-Selection-Methodology-03-7-2012-1"
     author:
       org: "IBM Corp"
       name: "Ellis Holman"
